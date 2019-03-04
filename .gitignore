@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/DesignPattern/obj/Debug
+/DesignPattern/bin/Debug
+/DesignPattern/obj/Release
+/BaiDuOCR/obj
+/BaiDuOCR/bin/Debug
+/BaiDuFace/bin/Debug
+/BaiDuFace/obj
+/.vs
